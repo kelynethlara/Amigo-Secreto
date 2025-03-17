@@ -1,5 +1,5 @@
 # Amigo-Secreto
-## Proyecyo
+## Proyecto
 El proyecto **"Amigo Secreto"** consiste en una applicación interactiva en **JavaScript, Html y CSS** que permite agregar nombres, mostrarlos en la pantalla y realizar un sorteo de cada principiante.
 
 ## Características
